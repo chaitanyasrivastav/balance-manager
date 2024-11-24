@@ -2,7 +2,7 @@ import './App.css'
 import { createContext, useState } from "react";
 import Navbar from './components/Navbar'
 import Input from './components/Input'
-import Button from './components/button'
+import Button from './components/Button'
 import EditableTable from './components/EditableTable';
 import { AppState, AppStateContextType } from './models/interfaces';
 
