@@ -1,5 +1,6 @@
 # Balance Manager
-This is build using React + Typescript + Vite + Tailwind CSS
-It is a simple frontend that just keeps track of amount spent on activities and splits it among all individuals that were involved in the activity.
+This is built using React + Typescript + Vite + Tailwind CSS
 
-This doesnt have any backend, this is just plain simple UI
+It is a simple front end that tracks the amount spent on activities and splits it among all individuals involved in the activity.
+
+This doesn't have any backend, this is a plain simple UI
